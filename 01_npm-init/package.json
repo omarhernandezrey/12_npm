@@ -1,0 +1,24 @@
+{
+  "name": "01_npm-init",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/omarhernandezrey/12_npm.git"
+  },
+  "keywords": [
+    "javascript",
+    "angular",
+    "node"
+  ],
+  "author": "Omar Hernandex Rey <hernandezreyomar@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/omarhernandezrey/12_npm/issues"
+  },
+  "homepage": "https://github.com/omarhernandezrey/12_npm#readme"
+}
