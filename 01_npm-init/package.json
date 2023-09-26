@@ -20,5 +20,12 @@
   "bugs": {
     "url": "https://github.com/omarhernandezrey/12_npm/issues"
   },
-  "homepage": "https://github.com/omarhernandezrey/12_npm#readme"
+  "homepage": "https://github.com/omarhernandezrey/12_npm#readme",
+  "dependencies": {
+    "moment": "^2.29.4",
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.50.0"
+  }
 }
